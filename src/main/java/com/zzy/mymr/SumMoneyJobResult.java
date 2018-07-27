@@ -1,4 +1,4 @@
-package com.zzy.hbasetest;
+package com.zzy.mymr;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
