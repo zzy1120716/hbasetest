@@ -18,6 +18,13 @@ put 'mytable','row2','mycf:teacher','lilyWang'
 put 'mytable','row7','mycf:name','Wang'
 ```
 
+### 依赖列过滤器
+#### 准备数据
+```
+> create 'testDepFilter','mycf'
+```
+利用Java API插入记录（AddRowToTestDepFilter）
+
 ## HBase + MapReduce
 ### 1. 快速入门
 ```
